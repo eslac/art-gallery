@@ -1,6 +1,6 @@
 Work by William Baires
 
-## [ESLAC Art Viewer]( art-viewer.html )
+## [ESLAC Art Viewer]( https://eslac.github.io/art-gallery/art-viewer.html )
 
 ![]( IMG_3629.jpg )
 
